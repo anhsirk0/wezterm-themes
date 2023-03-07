@@ -1,0 +1,31 @@
+[colors]
+ansi = [
+    '#323232',
+    '#ff8059',
+    '#44bc44',
+    '#d0bc00',
+    '#2fafff',
+    '#feacd0',
+    '#00d3d0',
+    '#ffffff'
+]
+brights = [
+    '#a8a8a8',
+    '#ef8b50',
+    '#70b900',
+    '#c0c530',
+    '#79a8ff',
+    '#f78fe7',
+    '#4ae2f0',
+    '#ffffff'
+]
+cursor_bg = '#f4f4f4'
+cursor_border = '#f4f4f4'
+cursor_fg = '#ffffff'
+background = '#000000'
+foreground = '#ffffff'
+selection_bg = '#3c3c3c'
+selection_fg = '#ffffff'
+
+[metadata]
+name = 'Modus-Vivendi'
