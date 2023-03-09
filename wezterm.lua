@@ -1,4 +1,5 @@
 local wezterm = require 'wezterm';
+local keys = require 'keys';
 
 return {
     font = wezterm.font_with_fallback({
@@ -13,5 +14,6 @@ return {
     disable_default_key_bindings = true,
     enable_tab_bar = false,
     default_cursor_style = "BlinkingBar",
-    color_scheme = 'Ef-Cherie',
+    keys = keys,
+    color_scheme = 'Ef-Dark',
 }
