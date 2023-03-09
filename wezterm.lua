@@ -7,9 +7,16 @@ return {
             family="Iosevka Comfy",
             harfbuzz_features={"liga=1", "clig=1"},
         },
-        {family="Hack"},
+        {
+            family="Iosevka Term SS04",
+            harfbuzz_features={"liga=1", "clig=1"},
+        },
+        "Iosevka Nerd Font",
+        "DejaVu Sans",
+        "Hack",
+        "Noto Sans Bamum",
+        "Noto Sans Ol Chiki"
     }),
-    font_antialias = "Subpixel",
     font_size = 14,
     disable_default_key_bindings = true,
     enable_tab_bar = false,
