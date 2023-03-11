@@ -7,11 +7,10 @@ return {
             family="Iosevka Comfy",
             harfbuzz_features={"liga=1", "clig=1"},
         },
-        {
-            family="Iosevka Term SS04",
-            harfbuzz_features={"liga=1", "clig=1"},
-        },
-        "Iosevka Nerd Font",
+        -- {
+        --     family="Iosevka Term SS04",
+        --     harfbuzz_features={"liga=1", "clig=1"},
+        -- },
         "DejaVu Sans",
         "Hack",
         "Noto Sans Bamum",
@@ -22,5 +21,6 @@ return {
     enable_tab_bar = false,
     default_cursor_style = "BlinkingBar",
     keys = keys,
-    color_scheme = 'Ef-Dark',
+    adjust_window_size_when_changing_font_size = false,
+    color_scheme = 'Modus-Vivendi',
 }
