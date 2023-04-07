@@ -29,3 +29,5 @@ selection_fg = '#4f4073'
 
 [metadata]
 name = 'Ef-Summer'
+author = "anhsirk0"
+origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-summer-theme.el"

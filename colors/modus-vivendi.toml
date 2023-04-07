@@ -29,3 +29,5 @@ selection_fg = '#ffffff'
 
 [metadata]
 name = 'Modus-Vivendi'
+author = "anhsirk0"
+origin_url = "https://git.sr.ht/~protesilaos/modus-themes/tree/main/item/modus-vivendi-theme.el"

@@ -29,3 +29,5 @@ selection_fg = '#4f3363'
 
 [metadata]
 name = 'Ef-Trio-Light'
+author = "anhsirk0"
+origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-trio-light-theme.el"

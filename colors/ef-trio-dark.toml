@@ -29,3 +29,5 @@ selection_fg = '#b8c6d5'
 
 [metadata]
 name = 'Ef-Trio-Dark'
+author = "anhsirk0"
+origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-trio-dark-theme.el"

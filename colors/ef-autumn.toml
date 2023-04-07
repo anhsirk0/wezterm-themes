@@ -29,3 +29,5 @@ selection_fg = '#cfbcba'
 
 [metadata]
 name = 'Ef-Autumn'
+author = "anhsirk0"
+origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-autumn-theme.el"

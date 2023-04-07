@@ -29,3 +29,5 @@ selection_fg = '#dfd0d5'
 
 [metadata]
 name = 'Ef-Tritanopia-Dark'
+author = "anhsirk0"
+origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-tritanopia-dark-theme.el"

@@ -29,3 +29,5 @@ selection_fg = '#cfdfd5'
 
 [metadata]
 name = 'Ef-Bio'
+author = "anhsirk0"
+origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-bio-theme.el"
