@@ -1,19 +1,36 @@
 local wezterm  = require 'wezterm'
+local act = wezterm.action
 
 return {
    {
       key = 'c',
-      mods = 'CTRL|SHIFT',
-      action = wezterm.action.CopyTo 'ClipboardAndPrimarySelection',
+      mods = 'SHIFT|CTRL',
+      action = act.CopyTo 'ClipboardAndPrimarySelection',
+   },
+   {
+      key = 'v',
+      mods = 'SHIFT|CTRL',
+      action = act.Paste
    },
    {
       key = '=',
       mods = 'CTRL',
-      action = wezterm.action.IncreaseFontSize,
+      action = act.IncreaseFontSize,
    },
    {
       key = '-',
       mods = 'CTRL',
-      action = wezterm.action.DecreaseFontSize,
-   }
+      action = act.DecreaseFontSize,
+   },
+   {
+      key = 'X',
+      mods = 'SHIFT|CTRL',
+      action = act.ActivateCopyMode
+   },
+   {
+    key = 'F',
+    mods = 'SHIFT|CTRL',
+    action = act.Search { CaseInSensitiveString = '' },
+  },
+
 }

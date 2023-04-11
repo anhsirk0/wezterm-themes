@@ -35,7 +35,7 @@ if ($theme) {
         $config_content .= $_;
     }
     close(FH);
-    # read config
+    # write config
     open(FH, '>' . $config) or die "Unable to open\n";
     print FH $config_content;
     close(FH);
