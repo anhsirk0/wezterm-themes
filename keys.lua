@@ -10,7 +10,7 @@ return {
    {
       key = 'v',
       mods = 'SHIFT|CTRL',
-      action = act.Paste
+      action = act.PasteFrom 'Clipboard'
    },
    {
       key = '=',
