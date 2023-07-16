@@ -1,7 +1,12 @@
 # Wezterm themes
 
++ Git repo on Codeberg: <https://codeberg.org/anhsirk0/wezterm-themes>
+  - Mirrors:
+    + GitHub: <https://github.com/anhsirk0/wezterm-themes>
+
+
 This repo has 10 themes  
-2 from modus-themes and 8 from ef-themes  
+2 from modus-themes and 24 from ef-themes  
 
 ### Usage
 Clone the repo and place the contents into ~/.config/wezterm/  
@@ -24,6 +29,8 @@ $ ~/.config/wezterm/change-theme.pl bio
 > This will change theme to the first theme that has bio in its name
 
 ### Colors
+Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures  
+
 ## Ef-Cherie theme
 ![ef-cherie](https://i.postimg.cc/43RHdhqR/ef-cherie.png)
 
