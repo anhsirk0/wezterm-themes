@@ -5,7 +5,7 @@
     + GitHub: <https://github.com/anhsirk0/wezterm-themes>
 
 
-This repo has 10 themes  
+This repo has 26 themes  
 2 from modus-themes and 24 from ef-themes  
 
 ### Usage
