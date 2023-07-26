@@ -1,6 +1,6 @@
 [colors]
 ansi = [
-    '#46423f',
+    '#26211d',
     '#ef656a',
     '#2fa526',
     '#c48702',
@@ -10,18 +10,18 @@ ansi = [
     '#cfbcba'
 ]
 brights = [
-    '#887c8a',
-    '#f06a3f',
-    '#64aa0f',
-    '#d0730f',
-    '#6a88ff',
-    '#e580ea',
-    '#6fafff',
-    '#70a89f'
+    '#56524f',
+    '#ff7a7f',
+    '#00b066',
+    '#df8f6f',
+    '#029fff',
+    '#af8aff',
+    '#3dbbb0',
+    '#887c8a'
 ]
 cursor_bg = '#ffaa33'
 cursor_border = '#ffaa33'
-cursor_fg = '#cfbcba'
+cursor_fg = '#0f0e06'
 background = '#0f0e06'
 foreground = '#cfbcba'
 selection_bg = '#3f1020'
@@ -29,5 +29,5 @@ selection_fg = '#cfbcba'
 
 [metadata]
 name = 'Ef-Autumn'
-author = "anhsirk0"
-origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-autumn-theme.el"
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-autumn-theme.el'

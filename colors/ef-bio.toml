@@ -1,6 +1,6 @@
 [colors]
 ansi = [
-    '#404240',
+    '#222522',
     '#ef6560',
     '#3fb83f',
     '#d4aa02',
@@ -10,18 +10,18 @@ ansi = [
     '#cfdfd5'
 ]
 brights = [
-    '#808f80',
+    '#505250',
     '#ff778f',
     '#00c089',
     '#cfc04f',
     '#32cfef',
     '#af9fff',
     '#5dc0aa',
-    '#8fcfaf'
+    '#808f80'
 ]
 cursor_bg = '#35f038'
 cursor_border = '#35f038'
-cursor_fg = '#cfdfd5'
+cursor_fg = '#111111'
 background = '#111111'
 foreground = '#cfdfd5'
 selection_bg = '#3a3027'
@@ -29,5 +29,5 @@ selection_fg = '#cfdfd5'
 
 [metadata]
 name = 'Ef-Bio'
-author = "anhsirk0"
-origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-bio-theme.el"
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-bio-theme.el'

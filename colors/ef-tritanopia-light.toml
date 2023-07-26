@@ -1,6 +1,6 @@
 [colors]
 ansi = [
-    '#756275',
+    '#efecec',
     '#aa0010',
     '#217a3c',
     '#805d00',
@@ -17,11 +17,11 @@ brights = [
     '#065fff',
     '#af40af',
     '#007faa',
-    '#194f90'
+    '#756275'
 ]
 cursor_bg = '#bb0000'
 cursor_border = '#bb0000'
-cursor_fg = '#1a1a1a'
+cursor_fg = '#fff9f9'
 background = '#fff9f9'
 foreground = '#1a1a1a'
 selection_bg = '#dadadf'
@@ -29,5 +29,5 @@ selection_fg = '#1a1a1a'
 
 [metadata]
 name = 'Ef-Tritanopia-Light'
-author = "anhsirk0"
-origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-tritanopia-light-theme.el"
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-tritanopia-light-theme.el'
