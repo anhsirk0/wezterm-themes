@@ -21,7 +21,7 @@ brights = [
 ]
 cursor_bg = '#d06f30'
 cursor_border = '#d06f30'
-cursor_fg = '#201f36'
+cursor_fg = '#fff7f7'
 background = '#fff7f7'
 foreground = '#201f36'
 selection_bg = '#dfe4f4'

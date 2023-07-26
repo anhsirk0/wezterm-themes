@@ -1,13 +1,13 @@
 [colors]
 ansi = [
-    '#352f2f',
+    '#282026',
     '#cf4f5f',
     '#2fa526',
     '#c48702',
     '#379cf6',
     '#b2608f',
     '#3fafcf',
-    '#908890'
+    '#dfd0d5'
 ]
 brights = [
     '#554f4f',
@@ -17,11 +17,11 @@ brights = [
     '#029fff',
     '#a6699f',
     '#4fafaf',
-    '#afdaef'
+    '#908890'
 ]
-cursor_bg = '#ff99ff'
-cursor_border = '#ff99ff'
-cursor_fg = '#d8cfd5'
+cursor_bg = '#fd3333'
+cursor_border = '#fd3333'
+cursor_fg = '#15050f'
 background = '#15050f'
 foreground = '#dfd0d5'
 selection_bg = '#202d3f'
@@ -29,5 +29,5 @@ selection_fg = '#dfd0d5'
 
 [metadata]
 name = 'Ef-Tritanopia-Dark'
-author = "anhsirk0"
-origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-tritanopia-dark-theme.el"
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-tritanopia-dark-theme.el'

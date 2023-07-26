@@ -1,6 +1,6 @@
 [colors]
 ansi = [
-    '#4b4b4b',
+    '#1a1a1a',
     '#ef6560',
     '#0faa26',
     '#bf9032',
@@ -10,18 +10,18 @@ ansi = [
     '#d0d0d0'
 ]
 brights = [
-    '#857f8f',
+    '#4b4b4b',
     '#ff5a7a',
     '#00a692',
     '#df8a5a',
     '#029fff',
     '#af85ff',
     '#1dbfcf',
-    '#89afef'
+    '#857f8f'
 ]
 cursor_bg = '#ff76ff'
 cursor_border = '#ff76ff'
-cursor_fg = '#d0d0d0'
+cursor_fg = '#000000'
 background = '#000000'
 foreground = '#d0d0d0'
 selection_bg = '#2a234a'
@@ -29,5 +29,5 @@ selection_fg = '#d0d0d0'
 
 [metadata]
 name = 'Ef-Dark'
-author = "anhsirk0"
-origin_url = "https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-dark-theme.el"
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-dark-theme.el'
