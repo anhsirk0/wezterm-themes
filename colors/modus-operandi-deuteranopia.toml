@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#f2f2f2',
+    '#a60000',
+    '#006800',
+    '#695500',
+    '#0031a9',
+    '#721045',
+    '#005e8b',
+    '#000000'
+]
+brights = [
+    '#c4c4c4',
+    '#a0132f',
+    '#00663f',
+    '#77492f',
+    '#0000b0',
+    '#531ab6',
+    '#005f5f',
+    '#595959'
+]
+cursor_bg = '#dfa0f0'
+cursor_border = '#dfa0f0'
+cursor_fg = '#ffffff'
+background = '#ffffff'
+foreground = '#000000'
+selection_bg = '#bdbdbd'
+selection_fg = '#000000'
+
+[metadata]
+name = 'Modus-Operandi-Deuteranopia'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/modus-operandi-deuteranopia-theme.el'
