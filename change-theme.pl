@@ -10,6 +10,7 @@ if (scalar @ARGV > 0) {
     $theme_names =~ s/[\n]*.*name = /\n/g;
     $theme_names =~ s/^[\n]//;
     my @all_themes = split "\n", $theme_names;
+    @all_themes = sort { length($a) <=> length($b) } @all_themes;
 
     ($theme) = grep /$ARGV[0]/i, @all_themes;
     if ($theme) {
@@ -29,13 +30,13 @@ if ($theme) {
     open(FH, '<' . $config) or die "Unable to open\n";
     while(<FH>) {
         if ($_ =~ /color_scheme = / && !($_ =~ /--/)) {
-            $config_content .= "    color_scheme = $theme,\n";
+            $config_content .= "   color_scheme = $theme,\n";
             next;
         }
         $config_content .= $_;
     }
     close(FH);
-    # write config
+    # read config
     open(FH, '>' . $config) or die "Unable to open\n";
     print FH $config_content;
     close(FH);
