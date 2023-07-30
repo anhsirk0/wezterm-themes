@@ -5,8 +5,8 @@
     + GitHub: <https://github.com/anhsirk0/wezterm-themes>
 
 
-This repo has 26 themes  
-2 from modus-themes and 24 from ef-themes  
+This repo has 32 themes  
+8 from modus-themes and 24 from ef-themes  
 
 ### Usage
 Clone the repo and place the contents into ~/.config/wezterm/  
