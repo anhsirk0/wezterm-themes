@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#1e1e1e',
+    '#ff5f59',
+    '#44bc44',
+    '#cabf00',
+    '#2fafff',
+    '#feacd0',
+    '#00d3d0',
+    '#ffffff'
+]
+brights = [
+    '#535353',
+    '#ff6f9f',
+    '#00c06f',
+    '#d8af7a',
+    '#00bcff',
+    '#b6a0ff',
+    '#6ae4b9',
+    '#989898'
+]
+cursor_bg = '#7030af'
+cursor_border = '#7030af'
+cursor_fg = '#000000'
+background = '#000000'
+foreground = '#ffffff'
+selection_bg = '#5a5a5a'
+selection_fg = '#ffffff'
+
+[metadata]
+name = 'Modus-Vivendi-Tritanopia'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/modus-vivendi-tritanopia-theme.el'

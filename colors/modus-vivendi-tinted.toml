@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#1d2235',
+    '#ff5f59',
+    '#44bc44',
+    '#d0bc00',
+    '#2fafff',
+    '#feacd0',
+    '#00d3d0',
+    '#ffffff'
+]
+brights = [
+    '#4a4f69',
+    '#ff7f9f',
+    '#00c06f',
+    '#dfaf7a',
+    '#00bcff',
+    '#b6a0ff',
+    '#6ae4b9',
+    '#989898'
+]
+cursor_bg = '#7030af'
+cursor_border = '#7030af'
+cursor_fg = '#0d0e1c'
+background = '#0d0e1c'
+foreground = '#ffffff'
+selection_bg = '#555a66'
+selection_fg = '#ffffff'
+
+[metadata]
+name = 'Modus-Vivendi-Tinted'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/modus-vivendi-tinted-theme.el'
