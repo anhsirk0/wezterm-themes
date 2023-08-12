@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#e0e7ef',
+    '#c3303a',
+    '#007010',
+    '#805a1f',
+    '#375cc6',
+    '#80308f',
+    '#1f66af',
+    '#151a27'
+]
+brights = [
+    '#afb8c3',
+    '#b02440',
+    '#007047',
+    '#78542f',
+    '#003faf',
+    '#5f2fba',
+    '#006f70',
+    '#676470'
+]
+cursor_bg = '#036f99'
+cursor_border = '#036f99'
+cursor_fg = '#edf4f8'
+background = '#edf4f8'
+foreground = '#151a27'
+selection_bg = '#c8dcff'
+selection_fg = '#151a27'
+
+[metadata]
+name = 'Ef-Maris-Light'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-maris-light-theme.el'
