@@ -9,13 +9,7 @@ This repo has 32 themes
 8 from modus-themes and 24 from ef-themes  
 
 ### Usage
-Clone the repo and place the contents into ~/.config/wezterm/  
-Add these lines somewhere (preferrably at the end) in your `wezterm.yml` 
-
-```text
-import:
-  - /home/user/.config/wezterm/themes/modus-vivendi.yaml
-```
+Clone the repo and copy `colors` into `~/.config/wezterm/`  
 
 ## use change-theme.pl to change the themes (fzf required)
 ```bash
