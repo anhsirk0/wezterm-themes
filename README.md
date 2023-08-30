@@ -10,12 +10,6 @@ This repo has 32 themes
 
 ### Usage
 Clone the repo and place the contents into ~/.config/wezterm/  
-Add these lines somewhere (preferrably at the end) in your `wezterm.yml` 
-
-```text
-import:
-  - /home/user/.config/wezterm/themes/modus-vivendi.yaml
-```
 
 ## use change-theme.pl to change the themes (fzf required)
 ```bash
@@ -29,7 +23,8 @@ $ ~/.config/wezterm/change-theme.pl bio
 > This will change theme to the first theme that has bio in its name
 
 ### Colors
-Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures  
+Pictures: https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn
+Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
 
 ## Ef-Cherie theme
 ![ef-cherie](https://i.postimg.cc/43RHdhqR/ef-cherie.png)
