@@ -9,7 +9,7 @@ This repo has 32 themes
 8 from modus-themes and 24 from ef-themes  
 
 ### Usage
-Clone the repo and copy `colors` into `~/.config/wezterm/`  
+Clone the repo and place the contents into ~/.config/wezterm/  
 
 ## use change-theme.pl to change the themes (fzf required)
 ```bash
@@ -23,7 +23,8 @@ $ ~/.config/wezterm/change-theme.pl bio
 > This will change theme to the first theme that has bio in its name
 
 ### Colors
-Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures  
+Pictures: https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn
+Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
 
 ## Ef-Cherie theme
 ![ef-cherie](https://i.postimg.cc/43RHdhqR/ef-cherie.png)
