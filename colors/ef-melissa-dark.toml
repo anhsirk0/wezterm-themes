@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#483426',
+    '#ff7f7f',
+    '#6fd560',
+    '#e4b53f',
+    '#57aff6',
+    '#f0aac5',
+    '#6fcad0',
+    '#e8e4b1'
+]
+brights = [
+    '#79665f',
+    '#ff8f98',
+    '#65d590',
+    '#e7a06f',
+    '#62cfef',
+    '#c6a2fe',
+    '#70e0cf',
+    '#90918a'
+]
+cursor_bg = '#f9cf7a'
+cursor_border = '#f9cf7a'
+cursor_fg = '#352718'
+background = '#352718'
+foreground = '#e8e4b1'
+selection_bg = '#443a4f'
+selection_fg = '#e8e4b1'
+
+[metadata]
+name = 'Ef-Melissa-Dark'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-melissa-dark-theme.el'
