@@ -1,33 +1,33 @@
 [colors]
 ansi = [
-    '#d7d7d7',
-    '#972500',
-    '#315b00',
-    '#70480f',
-    '#2544bb',
-    '#8f0075',
-    '#30517f',
+    '#f2f2f2',
+    '#a60000',
+    '#006800',
+    '#6f5500',
+    '#0031a9',
+    '#721045',
+    '#005e8b',
     '#000000'
 ]
 brights = [
-    '#505050',
-    '#a60000',
-    '#005e00',
-    '#813e00',
-    '#0031a9',
-    '#721045',
-    '#00538b',
+    '#c4c4c4',
+    '#a0132f',
+    '#00663f',
+    '#7a4f2f',
+    '#0000b0',
+    '#531ab6',
+    '#005f5f',
     '#595959'
 ]
-cursor_bg = '#282828'
-cursor_border = '#282828'
-cursor_fg = '#d7d7d7'
+cursor_bg = '#000000'
+cursor_border = '#000000'
+cursor_fg = '#ffffff'
 background = '#ffffff'
 foreground = '#000000'
-selection_bg = '#bcbcbc'
+selection_bg = '#bdbdbd'
 selection_fg = '#000000'
 
 [metadata]
 name = 'Modus-Operandi'
-author = "anhsirk0"
-origin_url = "https://git.sr.ht/~protesilaos/modus-themes/tree/main/item/modus-operandi-theme.el"
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/modus-operandi-theme.el'

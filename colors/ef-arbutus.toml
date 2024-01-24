@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#f0d8cf',
+    '#b0000f',
+    '#007000',
+    '#906200',
+    '#375cc6',
+    '#a23ea4',
+    '#3f69af',
+    '#393330'
+]
+brights = [
+    '#c7b2ab',
+    '#aa184f',
+    '#00704f',
+    '#8a6340',
+    '#265fbf',
+    '#6448ca',
+    '#0f7688',
+    '#6e678f'
+]
+cursor_bg = '#208f10'
+cursor_border = '#208f10'
+cursor_fg = '#ffead8'
+background = '#ffead8'
+foreground = '#393330'
+selection_bg = '#dbe0c0'
+selection_fg = '#393330'
+
+[metadata]
+name = 'Ef-Arbutus'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-arbutus-theme.el'

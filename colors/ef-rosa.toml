@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#432e32',
+    '#ff707f',
+    '#55cb56',
+    '#e4c53f',
+    '#57aff6',
+    '#ffb2d6',
+    '#5fc0dc',
+    '#e4d3e1'
+]
+brights = [
+    '#6a5862',
+    '#f0888f',
+    '#49d081',
+    '#eec26f',
+    '#62cff7',
+    '#cfb1ff',
+    '#80dfbf',
+    '#9d9d9d'
+]
+cursor_bg = '#ef607a'
+cursor_border = '#ef607a'
+cursor_fg = '#322023'
+background = '#322023'
+foreground = '#e4d3e1'
+selection_bg = '#45524a'
+selection_fg = '#e4d3e1'
+
+[metadata]
+name = 'Ef-Rosa'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-rosa-theme.el'

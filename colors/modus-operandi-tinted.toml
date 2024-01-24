@@ -19,8 +19,8 @@ brights = [
     '#005f5f',
     '#595959'
 ]
-cursor_bg = '#dfa0f0'
-cursor_border = '#dfa0f0'
+cursor_bg = '#000000'
+cursor_border = '#000000'
 cursor_fg = '#fbf7f0'
 background = '#fbf7f0'
 foreground = '#000000'

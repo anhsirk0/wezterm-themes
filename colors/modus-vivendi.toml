@@ -1,7 +1,7 @@
 [colors]
 ansi = [
-    '#323232',
-    '#ff8059',
+    '#1e1e1e',
+    '#ff5f59',
     '#44bc44',
     '#d0bc00',
     '#2fafff',
@@ -11,23 +11,23 @@ ansi = [
 ]
 brights = [
     '#535353',
-    '#ef8b50',
-    '#70b900',
-    '#c0c530',
-    '#79a8ff',
-    '#f78fe7',
-    '#4ae2f0',
+    '#ff7f9f',
+    '#00c06f',
+    '#dfaf7a',
+    '#00bcff',
+    '#b6a0ff',
+    '#6ae4b9',
     '#989898'
 ]
-cursor_bg = '#f4f4f4'
-cursor_border = '#f4f4f4'
-cursor_fg = '#323232'
+cursor_bg = '#ffffff'
+cursor_border = '#ffffff'
+cursor_fg = '#000000'
 background = '#000000'
 foreground = '#ffffff'
-selection_bg = '#3c3c3c'
+selection_bg = '#5a5a5a'
 selection_fg = '#ffffff'
 
 [metadata]
 name = 'Modus-Vivendi'
-author = "anhsirk0"
-origin_url = "https://git.sr.ht/~protesilaos/modus-themes/tree/main/item/modus-vivendi-theme.el"
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/modus-vivendi-theme.el'
