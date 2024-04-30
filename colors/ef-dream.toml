@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#322f34',
+    '#ff6f6f',
+    '#51b04f',
+    '#c0b24f',
+    '#57b0ff',
+    '#ffaacf',
+    '#6fb3c0',
+    '#efd5c5'
+]
+brights = [
+    '#5b595e',
+    '#e47980',
+    '#3fc489',
+    '#deb07a',
+    '#12b4ff',
+    '#d0b0ff',
+    '#65c5a8',
+    '#8f8886'
+]
+cursor_bg = '#f3c09a'
+cursor_border = '#f3c09a'
+cursor_fg = '#232025'
+background = '#232025'
+foreground = '#efd5c5'
+selection_bg = '#544a50'
+selection_fg = '#efd5c5'
+
+[metadata]
+name = 'Ef-Dream'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-dream-theme.el'

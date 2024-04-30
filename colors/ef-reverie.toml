@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#e5d6d4',
+    '#ba2d2f',
+    '#007a0a',
+    '#87591f',
+    '#375cc6',
+    '#9f4e74',
+    '#3060af',
+    '#4f204f'
+]
+brights = [
+    '#b9aaa8',
+    '#a83058',
+    '#008250',
+    '#906045',
+    '#265fbf',
+    '#7755b4',
+    '#0b6e8a',
+    '#6f6877'
+]
+cursor_bg = '#9d5744'
+cursor_border = '#9d5744'
+cursor_fg = '#f3eddf'
+background = '#f3eddf'
+foreground = '#4f204f'
+selection_bg = '#e0d0ba'
+selection_fg = '#4f204f'
+
+[metadata]
+name = 'Ef-Reverie'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-reverie-theme.el'

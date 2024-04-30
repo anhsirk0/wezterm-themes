@@ -5,7 +5,7 @@ ansi = [
     '#2fa526',
     '#c48702',
     '#379cf6',
-    '#b2608f',
+    '#b0648f',
     '#3fafcf',
     '#dfd0d5'
 ]
@@ -24,7 +24,7 @@ cursor_border = '#fd3333'
 cursor_fg = '#15050f'
 background = '#15050f'
 foreground = '#dfd0d5'
-selection_bg = '#202d3f'
+selection_bg = '#293140'
 selection_fg = '#dfd0d5'
 
 [metadata]

@@ -24,7 +24,7 @@ cursor_border = '#ffaa33'
 cursor_fg = '#0f0e06'
 background = '#0f0e06'
 foreground = '#cfbcba'
-selection_bg = '#3f1020'
+selection_bg = '#3f1324'
 selection_fg = '#cfbcba'
 
 [metadata]
