@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#e4dbc0',
+    '#882000',
+    '#226022',
+    '#6b4500',
+    '#113384',
+    '#822478',
+    '#125a7f',
+    '#231a1f'
+]
+brights = [
+    '#aea88e',
+    '#8f0038',
+    '#006e50',
+    '#775228',
+    '#000080',
+    '#50119f',
+    '#00676f',
+    '#685f53'
+]
+cursor_bg = '#774400'
+cursor_border = '#774400'
+cursor_fg = '#f1ecd0'
+background = '#f1ecd0'
+foreground = '#231a1f'
+selection_bg = '#ddc5af'
+selection_fg = '#231a1f'
+
+[metadata]
+name = 'Ef-Eagle'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-eagle-theme.el'

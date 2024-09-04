@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#373b3d',
+    '#d67869',
+    '#70bb70',
+    '#c09f6f',
+    '#80a4e0',
+    '#e5a0ea',
+    '#8fb8ea',
+    '#d0d0d0'
+]
+brights = [
+    '#60676b',
+    '#e4959f',
+    '#60bd90',
+    '#cf9f90',
+    '#72aff0',
+    '#cfa0e8',
+    '#7ac0b9',
+    '#857f8f'
+]
+cursor_bg = '#afe6ef'
+cursor_border = '#afe6ef'
+cursor_fg = '#292c2f'
+background = '#292c2f'
+foreground = '#d0d0d0'
+selection_bg = '#404f66'
+selection_fg = '#d0d0d0'
+
+[metadata]
+name = 'Ef-Owl'
+author = 'anhsirk0'
+origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-owl-theme.el'
