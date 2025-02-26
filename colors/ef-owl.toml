@@ -30,4 +30,4 @@ selection_fg = '#d0d0d0'
 [metadata]
 name = 'Ef-Owl'
 author = 'anhsirk0'
-origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-owl-theme.el'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/ef-owl.toml'

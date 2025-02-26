@@ -30,4 +30,4 @@ selection_fg = '#efd5c5'
 [metadata]
 name = 'Ef-Dream'
 author = 'anhsirk0'
-origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-dream-theme.el'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/ef-dream.toml'

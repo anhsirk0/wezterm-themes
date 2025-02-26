@@ -30,4 +30,4 @@ selection_fg = '#202020'
 [metadata]
 name = 'Ef-Light'
 author = 'anhsirk0'
-origin_url = 'https://git.sr.ht/~protesilaos/ef-themes/tree/main/item/ef-light-theme.el'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/ef-light.toml'
