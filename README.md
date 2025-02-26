@@ -23,7 +23,7 @@ $ ~/.config/wezterm/change-theme.pl bio
 > This will change theme to the first theme that has bio in its name
 
 ### Colors
-Pictures: https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn
+Pictures: https://wezfurlong.org/wezterm/colorschemes/e/index.html#ef-autumn  
 Ef-themes pictures (emacs): https://protesilaos.com/emacs/ef-themes-pictures  
 
 ## Ef-Cherie theme
