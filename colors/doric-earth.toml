@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#dfd8c8',
+    '#750000',
+    '#056100',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#000000'
+]
+brights = [
+    '#dfd8c8',
+    '#750000',
+    '#056100',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#000000'
+]
+cursor_bg = '#770000'
+cursor_border = '#770000'
+cursor_fg = '#f0eddf'
+background = '#f0eddf'
+foreground = '#000000'
+selection_bg = '#c09fa0'
+selection_fg = '#000000'
+
+[metadata]
+name = 'Doric-Earth'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-earth.toml'

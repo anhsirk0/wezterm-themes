@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#d3dbd9',
+    '#750000',
+    '#00620f',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#000000'
+]
+brights = [
+    '#d3dbd9',
+    '#750000',
+    '#00620f',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#000000'
+]
+cursor_bg = '#000077'
+cursor_border = '#000077'
+cursor_fg = '#e8f0e9'
+background = '#e8f0e9'
+foreground = '#000000'
+selection_bg = '#8fbbbe'
+selection_fg = '#000000'
+
+[metadata]
+name = 'Doric-Wind'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-wind.toml'

@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#e2e7e8',
+    '#750000',
+    '#056100',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#000000'
+]
+brights = [
+    '#e2e7e8',
+    '#750000',
+    '#056100',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#000000'
+]
+cursor_bg = '#2266bb'
+cursor_border = '#2266bb'
+cursor_fg = '#ffffff'
+background = '#ffffff'
+foreground = '#000000'
+selection_bg = '#a0bcd0'
+selection_fg = '#000000'
+
+[metadata]
+name = 'Doric-Light'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-light.toml'

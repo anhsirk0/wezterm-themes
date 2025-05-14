@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#45372f',
+    '#d09090',
+    '#85c397',
+    '#c4a992',
+    '#95afd2',
+    '#c5a3b2',
+    '#a5bfce',
+    '#ffffff'
+]
+brights = [
+    '#45372f',
+    '#d09090',
+    '#85c397',
+    '#c4a992',
+    '#95afd2',
+    '#c5a3b2',
+    '#a5bfce',
+    '#ffffff'
+]
+cursor_bg = '#fe7062'
+cursor_border = '#fe7062'
+cursor_fg = '#2a281d'
+background = '#2a281d'
+foreground = '#ffffff'
+selection_bg = '#742d33'
+selection_fg = '#ffffff'
+
+[metadata]
+name = 'Doric-Fire'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-fire.toml'
