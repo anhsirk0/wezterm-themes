@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#dedede',
+    '#750000',
+    '#056100',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#202020'
+]
+brights = [
+    '#dedede',
+    '#750000',
+    '#056100',
+    '#5f4602',
+    '#353362',
+    '#553372',
+    '#35485e',
+    '#202020'
+]
+cursor_bg = '#403030'
+cursor_border = '#403030'
+cursor_fg = '#ededed'
+background = '#ededed'
+foreground = '#202020'
+selection_bg = '#b0b0b0'
+selection_fg = '#202020'
+
+[metadata]
+name = 'Doric-Marble'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-marble.toml'

@@ -1,31 +1,31 @@
 [colors]
 ansi = [
-    '#404457',
+    '#3e4050',
     '#dba2a2',
     '#85c397',
     '#c4a992',
     '#95afd2',
     '#c5a3b2',
     '#a5bfce',
-    '#ffffff'
+    '#f2f5ff'
 ]
 brights = [
-    '#404457',
+    '#3e4050',
     '#dba2a2',
     '#85c397',
     '#c4a992',
     '#95afd2',
     '#c5a3b2',
     '#a5bfce',
-    '#ffffff'
+    '#f2f5ff'
 ]
-cursor_bg = '#69eebb'
-cursor_border = '#69eebb'
+cursor_bg = '#99ddee'
+cursor_border = '#99ddee'
 cursor_fg = '#2a283d'
 background = '#2a283d'
-foreground = '#ffffff'
+foreground = '#f2f5ff'
 selection_bg = '#455eab'
-selection_fg = '#ffffff'
+selection_fg = '#f2f5ff'
 
 [metadata]
 name = 'Doric-Water'

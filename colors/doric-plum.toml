@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#382b4e',
+    '#dba2a2',
+    '#85c397',
+    '#c4a992',
+    '#95afd2',
+    '#c5a3b2',
+    '#a5bfce',
+    '#e2d7e7'
+]
+brights = [
+    '#382b4e',
+    '#dba2a2',
+    '#85c397',
+    '#c4a992',
+    '#95afd2',
+    '#c5a3b2',
+    '#a5bfce',
+    '#e2d7e7'
+]
+cursor_bg = '#c070d0'
+cursor_border = '#c070d0'
+cursor_fg = '#221832'
+background = '#221832'
+foreground = '#e2d7e7'
+selection_bg = '#604179'
+selection_fg = '#e2d7e7'
+
+[metadata]
+name = 'Doric-Plum'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-plum.toml'

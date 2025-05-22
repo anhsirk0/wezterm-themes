@@ -7,7 +7,7 @@ ansi = [
     '#95afd2',
     '#c5a3b2',
     '#a5bfce',
-    '#ffffff'
+    '#f0e5e0'
 ]
 brights = [
     '#45372f',
@@ -17,15 +17,15 @@ brights = [
     '#95afd2',
     '#c5a3b2',
     '#a5bfce',
-    '#ffffff'
+    '#f0e5e0'
 ]
 cursor_bg = '#fe7062'
 cursor_border = '#fe7062'
 cursor_fg = '#2a281d'
 background = '#2a281d'
-foreground = '#ffffff'
+foreground = '#f0e5e0'
 selection_bg = '#742d33'
-selection_fg = '#ffffff'
+selection_fg = '#f0e5e0'
 
 [metadata]
 name = 'Doric-Fire'

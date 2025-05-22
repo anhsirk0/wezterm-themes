@@ -2,30 +2,30 @@
 ansi = [
     '#d3dbd9',
     '#750000',
-    '#00620f',
+    '#006500',
     '#5f4602',
     '#353362',
     '#553372',
     '#35485e',
-    '#000000'
+    '#000f0f'
 ]
 brights = [
     '#d3dbd9',
     '#750000',
-    '#00620f',
+    '#006500',
     '#5f4602',
     '#353362',
     '#553372',
     '#35485e',
-    '#000000'
+    '#000f0f'
 ]
-cursor_bg = '#000077'
-cursor_border = '#000077'
+cursor_bg = '#10600b'
+cursor_border = '#10600b'
 cursor_fg = '#e8f0e9'
 background = '#e8f0e9'
-foreground = '#000000'
-selection_bg = '#8fbbbe'
-selection_fg = '#000000'
+foreground = '#000f0f'
+selection_bg = '#94c2bf'
+selection_fg = '#000f0f'
 
 [metadata]
 name = 'Doric-Wind'
