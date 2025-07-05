@@ -1,31 +1,31 @@
 [colors]
 ansi = [
-    '#dfd8c8',
+    '#dfdfce',
     '#750000',
     '#056100',
     '#5f4602',
     '#353362',
     '#553372',
     '#35485e',
-    '#1b0d10'
+    '#30232e'
 ]
 brights = [
-    '#dfd8c8',
+    '#dfdfce',
     '#750000',
     '#056100',
     '#5f4602',
     '#353362',
     '#553372',
     '#35485e',
-    '#1b0d10'
+    '#30232e'
 ]
 cursor_bg = '#770000'
 cursor_border = '#770000'
 cursor_fg = '#f0eddf'
 background = '#f0eddf'
-foreground = '#1b0d10'
+foreground = '#30232e'
 selection_bg = '#c09fa0'
-selection_fg = '#1b0d10'
+selection_fg = '#30232e'
 
 [metadata]
 name = 'Doric-Earth'

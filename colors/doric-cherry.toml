@@ -1,31 +1,31 @@
 [colors]
 ansi = [
-    '#e3d8db',
+    '#e5dde0',
     '#750000',
     '#056100',
     '#5f4602',
     '#353362',
     '#553372',
     '#35485e',
-    '#311926'
+    '#35292f'
 ]
 brights = [
-    '#e3d8db',
+    '#e5dde0',
     '#750000',
     '#056100',
     '#5f4602',
     '#353362',
     '#553372',
     '#35485e',
-    '#311926'
+    '#35292f'
 ]
 cursor_bg = '#a02050'
 cursor_border = '#a02050'
 cursor_fg = '#f7edf1'
 background = '#f7edf1'
-foreground = '#311926'
+foreground = '#35292f'
 selection_bg = '#cc95b7'
-selection_fg = '#311926'
+selection_fg = '#35292f'
 
 [metadata]
 name = 'Doric-Cherry'
