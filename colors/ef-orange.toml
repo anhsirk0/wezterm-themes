@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#f7e5b6',
+    '#ba2d2f',
+    '#007a0a',
+    '#a05a22',
+    '#375cc6',
+    '#ba3e54',
+    '#467080',
+    '#6c4631'
+]
+brights = [
+    '#c9b088',
+    '#cf2030',
+    '#2f783f',
+    '#aa4f30',
+    '#265fbf',
+    '#8448aa',
+    '#0f738f',
+    '#6f6a70'
+]
+cursor_bg = '#cf5f00'
+cursor_border = '#cf5f00'
+cursor_fg = '#ffedc9'
+background = '#ffedc9'
+foreground = '#6c4631'
+selection_bg = '#eeb48f'
+selection_fg = '#6c4631'
+
+[metadata]
+name = 'Ef-Orange'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/ef-orange.toml'

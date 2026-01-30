@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#432e4e',
+    '#ef797f',
+    '#7fbb3f',
+    '#e4c53f',
+    '#57aff6',
+    '#ffb2d6',
+    '#5fc0dc',
+    '#e4d3e1'
+]
+brights = [
+    '#6a586e',
+    '#e088af',
+    '#79d081',
+    '#eec27f',
+    '#62cff7',
+    '#afb1ff',
+    '#80dfbf',
+    '#9d9d9d'
+]
+cursor_bg = '#e0646a'
+cursor_border = '#e0646a'
+cursor_fg = '#3b2043'
+background = '#3b2043'
+foreground = '#e4d3e1'
+selection_bg = '#643270'
+selection_fg = '#e4d3e1'
+
+[metadata]
+name = 'Ef-Fig'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/ef-fig.toml'
