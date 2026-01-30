@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#ded4c0',
+    '#902000',
+    '#006000',
+    '#595000',
+    '#103077',
+    '#700054',
+    '#005460',
+    '#213937'
+]
+brights = [
+    '#ded4c0',
+    '#902000',
+    '#006000',
+    '#595000',
+    '#103077',
+    '#700054',
+    '#005460',
+    '#213937'
+]
+cursor_bg = '#3f8cab'
+cursor_border = '#3f8cab'
+cursor_fg = '#eae3d8'
+background = '#eae3d8'
+foreground = '#213937'
+selection_bg = '#abd2c9'
+selection_fg = '#213937'
+
+[metadata]
+name = 'Doric-Beach'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-beach.toml'

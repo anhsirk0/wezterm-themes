@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#c2d1df',
+    '#a01010',
+    '#106710',
+    '#60400f',
+    '#103077',
+    '#700d50',
+    '#005355',
+    '#001020'
+]
+brights = [
+    '#c2d1df',
+    '#a01010',
+    '#106710',
+    '#60400f',
+    '#103077',
+    '#700d50',
+    '#005355',
+    '#001020'
+]
+cursor_bg = '#2040a0'
+cursor_border = '#2040a0'
+cursor_fg = '#d9e0ed'
+background = '#d9e0ed'
+foreground = '#001020'
+selection_bg = '#90b0e0'
+selection_fg = '#001020'
+
+[metadata]
+name = 'Doric-Siren'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-siren.toml'

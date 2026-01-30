@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#d5c9b5',
+    '#982500',
+    '#226700',
+    '#595000',
+    '#103077',
+    '#700054',
+    '#005460',
+    '#3a2018'
+]
+brights = [
+    '#d5c9b5',
+    '#982500',
+    '#226700',
+    '#595000',
+    '#103077',
+    '#700054',
+    '#005460',
+    '#3a2018'
+]
+cursor_bg = '#497020'
+cursor_border = '#497020'
+cursor_fg = '#e0d8c7'
+background = '#e0d8c7'
+foreground = '#3a2018'
+selection_bg = '#b1bf88'
+selection_fg = '#3a2018'
+
+[metadata]
+name = 'Doric-Oak'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-oak.toml'

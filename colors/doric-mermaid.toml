@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#3c3e55',
+    '#eca28f',
+    '#a0d0ba',
+    '#c0b080',
+    '#9fbfe7',
+    '#e9acbf',
+    '#a0c0d0',
+    '#dde0f8'
+]
+brights = [
+    '#3c3e55',
+    '#eca28f',
+    '#a0d0ba',
+    '#c0b080',
+    '#9fbfe7',
+    '#e9acbf',
+    '#a0c0d0',
+    '#dde0f8'
+]
+cursor_bg = '#e08ca0'
+cursor_border = '#e08ca0'
+cursor_fg = '#2a2f48'
+background = '#2a2f48'
+foreground = '#dde0f8'
+selection_bg = '#424381'
+selection_fg = '#dde0f8'
+
+[metadata]
+name = 'Doric-Mermaid'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-mermaid.toml'

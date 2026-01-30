@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#40503d',
+    '#e8a28f',
+    '#a2d09a',
+    '#c4b980',
+    '#98bae0',
+    '#e9acbf',
+    '#a0c0d0',
+    '#d0e2c8'
+]
+brights = [
+    '#40503d',
+    '#e8a28f',
+    '#a2d09a',
+    '#c4b980',
+    '#98bae0',
+    '#e9acbf',
+    '#a0c0d0',
+    '#d0e2c8'
+]
+cursor_bg = '#c0a27a'
+cursor_border = '#c0a27a'
+cursor_fg = '#303f2d'
+background = '#303f2d'
+foreground = '#d0e2c8'
+selection_bg = '#70523a'
+selection_fg = '#d0e2c8'
+
+[metadata]
+name = 'Doric-Pine'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-pine.toml'

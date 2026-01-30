@@ -1,0 +1,33 @@
+[colors]
+ansi = [
+    '#484040',
+    '#eca28f',
+    '#b9d0aa',
+    '#c0b060',
+    '#9fbfe7',
+    '#e9acbf',
+    '#a0c0d0',
+    '#e0d5b7'
+]
+brights = [
+    '#484040',
+    '#eca28f',
+    '#b9d0aa',
+    '#c0b060',
+    '#9fbfe7',
+    '#e9acbf',
+    '#a0c0d0',
+    '#e0d5b7'
+]
+cursor_bg = '#94d0eb'
+cursor_border = '#94d0eb'
+cursor_fg = '#383035'
+background = '#383035'
+foreground = '#e0d5b7'
+selection_bg = '#3d5e57'
+selection_fg = '#e0d5b7'
+
+[metadata]
+name = 'Doric-Valley'
+author = 'anhsirk0'
+origin_url = 'https://codeberg.org/anhsirk0/wezterm-themes/src/branch/main/colors/doric-valley.toml'

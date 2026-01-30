@@ -1,31 +1,31 @@
 [colors]
 ansi = [
-    '#40332f',
-    '#d09090',
-    '#85c397',
-    '#c4a992',
-    '#95afd2',
-    '#c5a3b2',
-    '#a5bfce',
-    '#f0e5e0'
+    '#40332b',
+    '#eca27f',
+    '#b9d08a',
+    '#c5ba80',
+    '#9fbfe7',
+    '#e9acbf',
+    '#a0c0d0',
+    '#f5ceb0'
 ]
 brights = [
-    '#40332f',
-    '#d09090',
-    '#85c397',
-    '#c4a992',
-    '#95afd2',
-    '#c5a3b2',
-    '#a5bfce',
-    '#f0e5e0'
+    '#40332b',
+    '#eca27f',
+    '#b9d08a',
+    '#c5ba80',
+    '#9fbfe7',
+    '#e9acbf',
+    '#a0c0d0',
+    '#f5ceb0'
 ]
-cursor_bg = '#e06e42'
-cursor_border = '#e06e42'
-cursor_fg = '#2a281d'
-background = '#2a281d'
-foreground = '#f0e5e0'
-selection_bg = '#601a2f'
-selection_fg = '#f0e5e0'
+cursor_bg = '#ef7839'
+cursor_border = '#ef7839'
+cursor_fg = '#282420'
+background = '#282420'
+foreground = '#f5ceb0'
+selection_bg = '#7c362c'
+selection_fg = '#f5ceb0'
 
 [metadata]
 name = 'Doric-Fire'
